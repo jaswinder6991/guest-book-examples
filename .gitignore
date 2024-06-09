@@ -12,5 +12,8 @@
 # Frontend
 **/dist/
 **/.parcel-cache
+**.env
 
 **/.next/
+
+**/.DS_Store
